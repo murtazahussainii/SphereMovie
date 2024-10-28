@@ -10,4 +10,4 @@
 |Karishma Maharjan |    E       |218731109    |karishm6@my.yorku.ca|        email        |  karishma0166     |
 |Allen Abraham     |    E       |218869156    |allenabe@my.yorku.ca|        email        |  rockstar_wf      |
 
-This list is finalized and complete. Completed. Done
+Completed
