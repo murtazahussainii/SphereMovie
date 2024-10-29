@@ -3,16 +3,14 @@ Build an interactive movie website which we call it SphereMovie. Out website wil
 
 Key Users
 Casual Browsers: Individuals looking for a quick and engaging way to explore the movies.
-Registered Movie Lovers: Users who log in to leave reviews and ratings.
+Registered Movie Lovers: Registered users who log in to leave reviews and ratings.
 The professor and TAs: Evaluators focused on assessing site functionality and user experience.
 
 Key Use Cases
-Browse Movies: Users browse through movie collections.
-Watch Trailers: Users preview movies by watching trailers on the website.
-Leave Reviews: Users can leave reviews to help others choose good movies.
+Browse Movies: Regsitered users browse through movie collections.
+Watch Trailers: Registered users preview movies by watching trailers on the website.
+Leave Reviews: Registered users can leave reviews to help others choose good movies.
 Log In/Sign Up: Users create accounts to access the review feature and other personalized options.
 
 Key Usage Scenarios
-Discovering Movies: Visitors navigate the site to find great movie trailers available for preview.
-Reviewing Movies: Users share their thoughts by posting reviews.
-Account Access: The new users can create account and the existing users can login.
+Jen is a passionate movie lover who is excited to explore new films on SphereMovie. After creating an account, she quickly navigates through the site’s trailers to discover the trailers. Intrigued by a trailer, she previews it to see if it’s her style. After watching, Jen decides to leave a review to share her thoughts with other users. By logging into her account, she can access previous reviews and get movie suggestions.
