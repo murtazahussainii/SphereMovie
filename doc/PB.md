@@ -1,2 +1,1 @@
 salan. bbhbhbhbh
-wow salan
