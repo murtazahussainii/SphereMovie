@@ -1,2 +1,2 @@
 hello world. Hello Allen!
-this is readme. and
+this is readme
