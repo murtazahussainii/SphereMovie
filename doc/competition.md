@@ -2,7 +2,7 @@ Existing Products:
 There are several popular movie discovery websites currently to address the need for exploring movies, watching trailers, and sometimes sharing reviews. Some key examples are:
 
 IMDb (https://www.imdb.com): A comprehensive platform for browsing movies, trailers, and user reviews. It's an extensive movie databases which contains professional reviews.
-
+ff
 eTrailer (https://www.etrailer.com): Focuses on providing a wide selection of trailers for movies across different genres and release dates. However it doesn’t emphasize on user reviews but it serves as a quick go-to source for previewing upcoming movies.
 
 Trailer Addict (https://www.traileraddict.com): A site dedicated to movie trailers, including teasers, clips, and behind-the-scenes videos. Trailer Addict is trailer-focused and lacks community-driven review features, making it ideal for users interested in previews.
