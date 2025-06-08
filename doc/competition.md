@@ -1,4 +1,6 @@
 Existing Products:
+Existing Products:
+
 There are several popular movie discovery websites currently to address the need for exploring movies, watching trailers, and sometimes sharing reviews. Some key examples are:
 
 IMDb (https://www.imdb.com): A comprehensive platform for browsing movies, trailers, and user reviews. It's an extensive movie databases which contains professional reviews.
